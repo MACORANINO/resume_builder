@@ -52,6 +52,7 @@ temp
 .codegraph
 .superpowers
 .migration
+.deepcode
 
 # Local Storage Data
 /data
